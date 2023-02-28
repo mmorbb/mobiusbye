@@ -15,7 +15,7 @@ npm i mobiusbye
 import mobiusbye from 'mobiusbye';
 
 // CommonJS
-const mobiusbye = require('mobiusbye/commonjs').default;
+const mobiusbye = require('mobiusbye/release/commonjs/index').default;
 ```
 
 ```js
