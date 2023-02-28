@@ -1,6 +1,6 @@
 {
   "name": "mobiusbye",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "循环引用检测，找到对象中存在循环引用的属性",
   "main": "./release/index.js",
   "scripts": {
